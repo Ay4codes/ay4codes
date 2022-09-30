@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ **About Me**
 
-- 🔭 I’m currently working on **[Payme]** It's a web app used for recording debtors and helps send automatic sms reminders to your debtors for quick payment.
+- 🔭 I’m currently working on **[FeedBackUp]**, FeedBackUp is a review platform that’s open to everyone. Share your experiences to help others make better choices and encourage companies and individuals to level up their game.
 
 - 🌱 I’m currently learning **Node Js & REACT.**
 
