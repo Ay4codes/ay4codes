@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at My Portfolio (**My portfolio coming soon**)
 
-- 📫 How to reach me **isholaolawale256@gmail.com**
+- 📫 How to reach me **ay4codes@gmail.com**
 
 - ⚡ Fun fact **I love to code!!!.**
 
