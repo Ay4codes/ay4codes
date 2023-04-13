@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at My Portfolio (**My portfolio coming soon**)
+- 👨‍💻 All of my projects are available at My Portfolio (**https://ay4codes.vercel.app**)
 
 - 📫 How to reach me **ay4codes@gmail.com**
 
