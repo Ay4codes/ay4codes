@@ -5,43 +5,9 @@
 
 ## **Looking for me!**:
 <p align="left" style="margin-left: 20px">
-<a href = "https://www.instagram.com/haryormeed_256/"><img style="width: 40px" src="https://i.im.ge/2022/07/28/F9Nj1P.png"/></a>
 <a style="margin-left: 10px" href = "https://twitter.com/ay4codes"><img style="width: 40px" src="https://i.im.ge/2022/07/28/F9P1gr.png"/></a>
 </p>
 
-## 🙋‍♂️ **About Me**
-
-- 🔭 I’m currently working on **[FeedBackUp]**, FeedBackUp is a review platform that’s open to everyone. Share your experiences to help others make better choices and encourage companies and individuals to level up their game.
-
-- 🌱 I’m currently learning **Docker.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at My Portfolio (**https://ay4codes.vercel.app**)
-
-- 📫 How to reach me **ay4codes@gmail.com**
-
-- ⚡ Fun fact **I love to code!!!.**
-
-## 🚀 **Languages and Tools**:
-
-#### **Web Development**:
-<p align="left" style="margin-left: 30px">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://i.im.ge/2022/07/28/F9mfAp.png" style="width: 130px"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://i.im.ge/2022/07/28/F9m4iW.png" style="width: 130px"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i.im.ge/2022/07/28/F9mRiD.png" style="width: 130px"/> </a> 
-    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://i.im.ge/2022/07/28/F9wA5r.png" style="width: 130px"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://i.im.ge/2022/07/28/F9wgSG.png" style="width: 130px"/> </a> 
-    <a href="https://www.figma.com" target="_blank"> <img src="https://i.im.ge/2022/07/28/F9wV8S.png" style="width: 130px"/> </a>  
-</p>
-
-### **Data Analysis:**
-<p align="left" style="margin-left: 30px">
-    <a href="https://www.sql.org/" target="_blank"> <img src="https://i.im.ge/2022/07/28/F96M8Y.png" style="width: 190px"/> </a> 
-    <a href="https://www.python.org/" target="_blank"> <img src="https://i.im.ge/2022/07/28/F96mTS.png" style="width: 190px"/> </a>
-    <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://i.im.ge/2022/07/28/F96g34.png" style="width: 190px"/> </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://i.im.ge/2022/07/28/F96KzP.png" style="width: 190px"/> </a>
-</p>
 <br/>
 
 <p align="center">
